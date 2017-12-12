@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\models",
+    "\\public",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\components\\pages",
+    "\\src\\reducers"
+  ],
+  "SelectedNode": "\\models\\books.js",
+  "PreviewInSolutionExplorer": false
+}
